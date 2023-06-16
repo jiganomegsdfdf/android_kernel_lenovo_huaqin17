@@ -124,3 +124,4 @@ x509.genkey
 /kernel/arch/arm/boot/Image
 /kernel/arch/arm/boot/compressed/vmlinux
 /kernel/arch/arm/boot/zImage
+/kernel/include/linux/autoconf.h
