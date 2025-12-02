@@ -373,7 +373,7 @@ static struct device *boot_device;
 /* return boot mode */
 BOOTMODE get_boot_mode(void)
 {
-    return g_boot_mode;
+    return 0;
 }
 
 
